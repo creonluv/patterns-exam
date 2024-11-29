@@ -87,4 +87,4 @@ UML-діаграма
 6. **CityApp**: Головний клас для запуску програми.
 
 Результат запуску:
-![Image alt]([https://github.com/creonluv/patterns-exam/blob/main/sample-Flyweight_City_Simulation.png](https://github.com/creonluv/patterns-exam/blob/main/2024-11-29%2016.14.44.jpg))
+![Image alt](https://github.com/creonluv/patterns-exam/blob/main/2024-11-29%2016.14.44.jpg)
